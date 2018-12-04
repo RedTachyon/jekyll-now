@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm just an AI enthusiast frustrated with the amound of misguided hype about the so called artificial intelligence you can find in the media. Hopefully 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[You can send me an email if you insist](mailto:jakub.kwiatkowski.96@gmail.com)

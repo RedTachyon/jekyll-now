@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm just an AI enthusiast frustrated with the amound of misguided hype about the so called artificial intelligence you can find in the media. Hopefully 
+I'm just an AI enthusiast frustrated with the amound of misguided hype about the so called artificial intelligence you can find in the media. 
 
 ### Contact me
 

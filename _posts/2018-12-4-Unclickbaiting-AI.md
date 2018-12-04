@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unclickbaiting AI part one: AI giving birth to a child AI
+title: Unclickbaiting AI part one - Artificial Incest
 ---
 
-AI's crazy y'all, really
+Will this change anything?

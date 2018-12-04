@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unclickbaiting AI part one - Artificial Incest
+title: Unclickbaiting AI part one&#58; Artificial Incest
 ---
 
-Will this change anything?
+This will be a nice post one day
